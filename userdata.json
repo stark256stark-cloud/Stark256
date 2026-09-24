@@ -1,26 +1,26 @@
 [
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "b986b5c778e74336",
-        "key": "ryanmodded8969",
-        "expirydate": "03-12-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "e376dc08543219c0",
-        "key": "ryanmodded89",
-        "expirydate": "26-09-2026",
-        "Allowoffline": true
-        {
+  {
+    "device_id": "device123",
+    "key": "key12345",
+    "expirydate": "31-12-2025",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "device456",
+    "key": "key67890",
+    "expirydate": "15-06-2025",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "b986b5c778e74336",
+    "key": "ryanmodded8969",
+    "expirydate": "03-12-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "e376dc08543219c0",
+    "key": "ryanmodded89",
+    "expirydate": "26-09-2026",
+    "Allowoffline": true
+  }
 ]
